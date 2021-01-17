@@ -1,0 +1,28 @@
+{
+  "name": "cordova-plugin-facebook",
+  "version": "1.0",
+  "description": "Cordova Facebook SDK 4 Plugin",
+  "cordova": {
+    "id": "cordova-plugin-facebook",
+    "platforms": [
+      "android",
+      "ios",
+      "browser"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/srini-max/cordova-plugin-facebook"
+  },
+  "keywords": [
+    "cordova",
+    "facebook",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-browser",
+    "facebook-sdk",
+    "social",
+    "sharing"
+  ],
+  "license": "Apache-2.0"
+}
