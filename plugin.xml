@@ -4,26 +4,10 @@
         id="cordova-plugin-facebook"
         version="1.1>
 
-    <name>Facebook</name>
-
-    <description>
-      This is the official plugin for Facebook in Apache Cordova!
-
-      The Facebook plugin for Apache Cordova allows you to use the same JavaScript code in your
-      Cordova application as you use in your web application.
-    </description>
-
-    <license>Apache 2.0</license>
-
     <preference name="APP_ID" />
     <preference name="APP_NAME" />
 
-    <engines>
-        <!-- Requires > 3.5.0 because of the custom Framework tag for iOS [CB-6698] -->
-        <!-- Requires > 4.0.0 because of the Framework tag for Android that uses gradle -->
-        <engine name="cordova-android" version=">=3.5.0" />
-        <engine name="cordova-ios" version=">=3.5.0" />
-    </engines>
+  
 
     <!-- android -->
     <platform name="android">
